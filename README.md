@@ -2,3 +2,4 @@
 # ActividadesProjecto-Equipo12
 Los avances del projecto final del EQUIPO 12 se encontraran aqui : 
 - [Proyecto final - Avance 1](https://github.com/PosgradoMNA/actividades-del-projecto-cad_equipo_12/tree/main/Avance1)
+- [Semana 3 - Actividad 1](https://github.com/PosgradoMNA/actividades-del-projecto-cad_equipo_12/tree/main/Semana%203%20-%20Actividad%201)
